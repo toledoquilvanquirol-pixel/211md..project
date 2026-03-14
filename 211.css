@@ -109,6 +109,7 @@ height:66px;
 margin-bottom:-5px;
 }
 
+
 .explanation h3 {
 background-image: url(tittle02.jpg);
 background-repeat: no-repeat;
@@ -120,27 +121,30 @@ margin-bottom:-5px;
 }
 
 .participation h3 {
-background-image: url(title03.jpg);
+background-image: url(tittle03.jpg);
 background-repeat: no-repeat;
-background-position: left top;
+background-size: cover;   /* or contain */
+background-position: center;
 width:286px;
 height:66px;
 margin-bottom:-5px;
 }
 
 .benefits h3 {
-background-image: url(title04.jpg);
+background-image: url(tittle04.jpg);
 background-repeat: no-repeat;
-background-position: left top;
+background-size: cover;   /* or contain */
+background-position: center;
 width:286px;
 height:66px;
 margin-bottom:-5px;
 }
 
 .requirements h3 {
-background-image: url(title05.jpg);
+background-image: url(tittle05.jpg);
 background-repeat: no-repeat;
-background-position: left top;
+background-size: cover;   /* or contain */
+background-position: center;
 width:286px;
 height:66px;
 margin-bottom:-5px;
