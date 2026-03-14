@@ -103,8 +103,9 @@ margin-bottom:35px;
 background-image: url(tittle01.jpg);
 background-repeat: no-repeat;
 background-size: cover;   /* or contain */
-border: 0px dotted #999999;
 background-position: center;
+width:286px;
+height:66px;
 margin-bottom:-5px;
 }
 
