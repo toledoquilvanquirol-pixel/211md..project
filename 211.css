@@ -110,9 +110,10 @@ margin-bottom:-5px;
 }
 
 .explanation h3 {
-background-image: url(title02.jpg);
+background-image: url(tittle02.jpg);
 background-repeat: no-repeat;
-background-position: left top;
+background-size: cover;   /* or contain */
+background-position: center;
 width:286px;
 height:66px;
 margin-bottom:-5px;
