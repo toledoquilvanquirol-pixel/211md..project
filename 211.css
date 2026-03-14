@@ -50,10 +50,13 @@ position:relative;
 }
 
 header {
-background: transparent url(header.gif) no-repeat center top;
-border:0px dotted #999999;
-width:630px;
-height:387px;
+background: transparent url(header1.jpg) no-repeat center top;
+background-size: cover;   /* or contain */
+border: 0px dotted #999999;
+background-position: center;
+padding: auto;
+width: 642px;
+height: 387px;
 }
 
 .intro {
