@@ -102,9 +102,9 @@ margin-bottom:35px;
 .preamble h3 {
 background-image: url(title01.jpg);
 background-repeat: no-repeat;
-background-position: left top;
-width:286px;
-height:64px;
+background-size: cover;   /* or contain */
+border: 0px dotted #999999;
+background-position: center;
 margin-bottom:-5px;
 }
 
